@@ -1,0 +1,2 @@
+module JavaMySecondClass {
+}
